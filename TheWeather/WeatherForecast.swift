@@ -6,7 +6,7 @@
 //  Copyright © 2016 Third Cup lc. All rights reserved.
 //
 
-import Foundation
+import CoreLocation
 
 
 struct WeatherForecast {
@@ -41,21 +41,31 @@ extension WeatherForecast {
 
 extension WeatherForecast {
     
-    static let fiveDayForecast = Resource<[WeatherForecast]>(url: fiveDayURL, parseJSON: { json in
-        guard let dictionary = json as? JSONDictionary,
-            let dictionaries = dictionary["list"] as? [JSONDictionary] else { return nil }
-        return dictionaries.flatMap(WeatherForecast.init)
-    })
+    static func fiveDayForecast(coordinate: CLLocationCoordinate2D) -> Resource<[WeatherForecast]> {
+        let url = fiveDayURL(coordinate: coordinate)
+        return Resource<[WeatherForecast]>(url: url, parseJSON: { json in
+            guard let dictionary = json as? JSONDictionary,
+                let dictionaries = dictionary["list"] as? [JSONDictionary] else { return nil }
+            return dictionaries.flatMap(WeatherForecast.init)
+        })
+    }
     
-    static let currentConditions = Resource<WeatherForecast>(url: currentConditionsURL, parseJSON: { json in
-        guard let dictionary = json as? JSONDictionary else { return nil }
-        return WeatherForecast(d: dictionary)
-    })
+    static func currentConditions(coordinate: CLLocationCoordinate2D) -> Resource<WeatherForecast> {
+        let url = currentConditionsURL(coordinate: coordinate)
+        return Resource<WeatherForecast>(url: url, parseJSON: { json in
+            guard let dictionary = json as? JSONDictionary else { return nil }
+            return WeatherForecast(d: dictionary)
+        })
+    }
     
-    private static let baseURL = "http://api.openweathermap.org/data/2.5"
+    private static func fiveDayURL(coordinate: CLLocationCoordinate2D) -> URL {
+        let path = "/forecast/daily?lat=\(coordinate.latitude)&lon=\(coordinate.longitude)&units=imperial&cnt=5&appid=ab298dd3d8f93043e672f412b02fac88"
+        return URL(string: baseURL + path)!
+    }
     
-    private static let fiveDayURL = URL(string: baseURL + "/forecast/daily?q=Atlanta,ga&units=imperial&cnt=5&appid=ab298dd3d8f93043e672f412b02fac88")!
-    
-    private static let currentConditionsURL = URL(string: baseURL + "/weather?q=Atlanta,ga&units=imperial&appid=ab298dd3d8f93043e672f412b02fac88")!
+    private static func currentConditionsURL(coordinate: CLLocationCoordinate2D) -> URL {
+        let path = "/weather?lat=\(coordinate.latitude)&lon=\(coordinate.longitude)&units=imperial&appid=ab298dd3d8f93043e672f412b02fac88"
+        return URL(string: baseURL + path)!
+    }
 }
 

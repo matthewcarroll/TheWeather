@@ -1,12 +1,12 @@
 //
 //  CoreLocationExtensions.swift
-//  TheWeather WatchKit Extension
 //
 //  Created by Matthew Carroll on 4/27/16.
-//  Copyright © 2016 The Weather Channel. All rights reserved.
+//  Copyright © 2016 Third Cup lc. All rights reserved.
 //
 
 import CoreLocation
+
 
 extension CLLocation {
     
@@ -16,22 +16,27 @@ extension CLLocation {
         return "\(latitude),\(longitude)"
         }
     }
+    
+    var lat: CLLocationDegrees {
+        return coordinate.latitude
+    }
+    
+    var lon: CLLocationDegrees {
+        return coordinate.longitude
+    }
 }
 
 extension CLLocationCoordinate2D {
     
-    var asString: String { get {
-        let _latitude = String(format: "%.2f", latitude)
-        let _longitude = String(format: "%.2f", longitude)
-        return "\(_latitude),\(_longitude)"
-        }
-    }
-    
     init?(string: String) {
         let components = string.components(separatedBy: ",")
-        let lat = components.first?.trimmingCharacters(in: CharacterSet.whitespaces)
-        let long = components.last?.trimmingCharacters(in: CharacterSet.whitespaces)
-        guard let latD = CLLocationDegrees(lat ?? ""), let longD = CLLocationDegrees(long ?? "") else { return nil }
+        guard let lat = components.first?.trimmingCharacters(in: CharacterSet.whitespaces),
+            let lon = components.last?.trimmingCharacters(in: CharacterSet.whitespaces) else { return nil }
+        self.init(lat: lat, lon: lon)
+    }
+    
+    init?(lat: String, lon: String) {
+        guard let latD = CLLocationDegrees(lat), let longD = CLLocationDegrees(lon) else { return nil }
         self.init(latitude: latD, longitude: longD)
     }
 }
@@ -39,25 +44,32 @@ extension CLLocationCoordinate2D {
 extension CLLocationCoordinate2D {
     
     var radiansLatitude: CLLocationDirection {
-        return latitude * M_PI / 180
+        return latitude * Double.pi / 180
     }
     
     var radiansLongitude: CLLocationDirection {
-        return longitude * M_PI / 180
+        return longitude * Double.pi / 180
+    }
+    
+    var asString: String { get {
+        let _latitude = String(format: "%.2f", latitude)
+        let _longitude = String(format: "%.2f", longitude)
+        return "\(_latitude),\(_longitude)"
+        }
     }
 }
 
 extension CLLocationCoordinate2D {
     
     func compassDirection(to coordinate: CLLocationCoordinate2D) -> CompassDirection {
-        let differenceLat = log(tan(coordinate.radiansLatitude / 2 + M_PI / 4) / tan(radiansLatitude / 2 + M_PI / 4))
+        let differenceLat = log(tan(coordinate.radiansLatitude / 2 + Double.pi / 4) / tan(radiansLatitude / 2 + Double.pi / 4))
         var differenceLong = coordinate.radiansLongitude - radiansLongitude
-        if abs(differenceLong) > M_PI {
+        if abs(differenceLong) > Double.pi {
             if differenceLong > 0 {
-                differenceLong = (2 * M_PI - differenceLong) * -1
+                differenceLong = -(2 * Double.pi - differenceLong)
             }
             else {
-                differenceLong = 2 * M_PI + differenceLong
+                differenceLong = 2 * Double.pi + differenceLong
             }
         }
         let deg = rad2Deg(radians: atan2(differenceLong, differenceLat))
@@ -66,9 +78,10 @@ extension CLLocationCoordinate2D {
     }
     
     private func rad2Deg(radians: Double) -> CLLocationDegrees {
-        return radians * 180 / M_PI
+        return radians * 180 / Double.pi
     }
 }
+
 
 enum CompassDirection {
     case N

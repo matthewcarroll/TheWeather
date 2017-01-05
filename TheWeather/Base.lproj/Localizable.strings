@@ -27,6 +27,9 @@
 "error.message.currentConditions" = "Sorry, Unable to Fetch the Current Conditions";
 "error.message.5day" = "Sorry, Unable to Fetch the Five Day Forecast";
 
+"error.location.unavailable" = "Unable to Find Current Location";
+"error.location.authorization" = "Location Services have not been Authorized";
+
 "humidity" = "Humidity";
 "pressure" = "Pressure";
 "wind" = "Wind";

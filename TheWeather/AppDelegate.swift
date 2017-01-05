@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import CoreLocation
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -28,14 +29,36 @@ private final class Segues {
     
     init(window: UIWindow) {
         navigationController = window.rootViewController as! UINavigationController
+        LocationServices.instance.fetchCurrentLocation(completion: deviceLocationResponse)
         let fiveDayController = navigationController.viewControllers[0] as! FiveDayViewController
         fiveDayController.didSelect = showDetailView
         fiveDayController.didTapHeader = showDetailView
+    }
+
+    private func deviceLocationResponse(location: CLLocation?, error: LocationServicesError?) {
+        guard error == nil, let location = location else {
+            let message = error?.message ?? NSLocalizedString(key: "error.location.unavailable")
+            return UIAlertController.show(from: navigationController, title: message, ok: nil)
+        }
+        let fiveDayController = navigationController.viewControllers[0] as! FiveDayViewController
+        fiveDayController.fetchWeather = WeatherDataClient.fetchWeather(coordinate: location.coordinate)
+        configureControllerForUITests(controller: fiveDayController)
+        if fiveDayController.isViewLoaded {
+            fiveDayController.fetchWeather(fiveDayController.weatherResponse)
+        }
     }
     
     private func showDetailView(forecast: WeatherForecast) {
         let detail = DailyForecastViewController(forecast: forecast)
         navigationController.pushViewController(detail, animated: true)
         navigationController.isNavigationBarHidden = false
+    }
+    
+    private func configureControllerForUITests(controller: FiveDayViewController) {
+        let env = ProcessInfo.processInfo.environment
+        guard let lat = env["lat"], let lon = env["lon"],
+            let coordinate = CLLocationCoordinate2D(lat: lat, lon: lon) else { return }
+        controller.fetchWeather = WeatherDataClient.fetchWeather(coordinate: coordinate)
+
     }
 }

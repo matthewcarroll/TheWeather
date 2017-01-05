@@ -11,11 +11,12 @@ import UIKit
 
 final class FiveDayViewController: UITableViewController {
 
-    private var dataSource = FiveDayDataSource<WeatherForecast>(tableView: UITableView())
     private var todaysForecast: WeatherForecast?
-
+    private var dataSource = FiveDayDataSource<WeatherForecast>(tableView: UITableView())
+    
     var didSelect: (WeatherForecast) -> () = { _ in }
     var didTapHeader: (WeatherForecast) -> () = { _ in }
+    var fetchWeather: (@escaping (WeatherResponse) -> ()) -> () = { _ in } 
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -28,42 +29,20 @@ final class FiveDayViewController: UITableViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        dataSource.refreshData(fetch: fetchWeather)
+        fetchWeather(weatherResponse)
         navigationController?.isNavigationBarHidden = true
     }
     
-    func fetchWeather(completion: @escaping ([WeatherForecast]?) -> ()) {
-        var success5Day = false
-        var successCurrent = false
-        let client = HTTPClient()
-        let group = DispatchGroup()
-        group.enter()
-        client.load(resource: WeatherForecast.currentConditions) { forecast in
-            mainQueue.add {
-                self.configureView(forecast: forecast ?? WeatherForecast(d: [:]))
-            }
-            successCurrent = forecast != nil
-            group.leave()
+    func weatherResponse(response: WeatherResponse) {
+        guard response.error == nil else {
+            return UIAlertController.show(from: self, title: response.error!.message, ok: nil)
         }
-        group.enter()
-        client.load(resource: WeatherForecast.fiveDayForecast) { forecasts in
-            completion(forecasts?.dropFirst)
-            self.todaysForecast = forecasts?.first
-            success5Day = forecasts?.count == 5
-            group.leave()
-        }
-        group.notify(queue: DispatchQueue.main) {
-            self.showMessage(successCurrent: successCurrent, success5Day: success5Day)
-        }
+        response.currentConditions.map { configureView(forecast: $0) }
+        guard let forecasts = response.fiveDay, let first = forecasts.first else { return }
+        todaysForecast = first
+        dataSource.objects = forecasts.dropFirst
     }
     
-    private func showMessage(successCurrent: Bool, success5Day: Bool) {
-        guard !successCurrent || !success5Day else { return }
-        var key = !successCurrent ? "error.message.currentConditions" : "error.message.5day"
-        key = (!success5Day && !successCurrent) ? "error.message" : key
-        UIAlertController.show(from: self, title: NSLocalizedString(key: key), ok: nil)
-    }
-
     private func configureView(forecast: WeatherForecast) {
         let view = tableView.tableHeaderView as! WeatherForecastView
         let forecastModel = ForecastViewModel(forecast: forecast)
@@ -88,19 +67,14 @@ final class FiveDayViewController: UITableViewController {
 private final class FiveDayDataSource<T>: NSObject, UITableViewDataSource {
     
     private let tableView: UITableView
-    fileprivate var objects = [T]()
+    fileprivate var objects = [T]() {
+        didSet { mainQueue.addOperation { self.tableView.reloadData() } }
+    }
     
     init(tableView: UITableView) {
         self.tableView = tableView
     }
-    
-    func refreshData(fetch: (@escaping ([T]?) -> ()) -> ()) {
-        fetch { (objects: [T]?) in
-            objects.map { self.objects = $0 }
-            mainQueue.addOperation { self.tableView.reloadData() }
-        }
-    }
-    
+
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return objects.count
     }

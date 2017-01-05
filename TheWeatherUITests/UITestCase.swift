@@ -7,16 +7,35 @@
 
 import XCTest
 
+
 class UITestCase: XCTestCase {
 
     var expectation = XCTestExpectation()
     let sixtySecondDefaultTimeout = TimeInterval(60)
     var app = XCUIApplication()
+    var systemAlertToken: NSObjectProtocol = NSObject()
     
     override func setUp() {
         super.setUp()
         continueAfterFailure = false
         app = XCUIApplication()
+        app.launchEnvironment = ProcessInfo.processInfo.environment
+        app.launch()
+    }
+    
+    func tapSystemAlertButton(buttonText: String) {
+        systemAlertToken = addUIInterruptionMonitor(withDescription: "") { alert in
+            let button = alert.buttons[buttonText]
+            guard button.exists else { return false }
+            button.tap()
+            self.removeUIInterruptionMonitor(self.systemAlertToken)
+            return true
+        }
+        app.swipeLeft()
+    }
+    
+    func backgroundAndForegroundTheApp() {
+        XCUIDevice.shared().press(.home)
         app.launch()
     }
 

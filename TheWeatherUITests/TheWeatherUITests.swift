@@ -7,28 +7,42 @@
 //
 
 import XCTest
+import CoreLocation
 
 
 class TheWeatherUITests: UITestCase {
     
-    func testHeader() {
+    var coordinate = CLLocationCoordinate2D(latitude: 0, longitude: 0)
+    let client = HTTPClient()
+    let baseURL = "http://api.openweathermap.org/data/2.5"
+    
+    override func setUp() {
+        super.setUp()
+        coordinate = coordinate2D()
+    }
+    
+    func test0GrantLocationServices() {
+        super.tapSystemAlertButton(buttonText: "Allow")
+    }
+    
+    func test1CurrentConditionsHeader() {
         let formatter = DateFormatter(dateFormat: "MMMM d", timeZone: nil)
         formatter.dateFormat = "MMMM d"
         let dateString = formatter.string(from: Date())
         let monthDay = app.descendantMatchingIdentifier(id: "header.monthDay")
         XCTAssert(monthDay.label == dateString, "month day label is incorrect \(monthDay.label)")
-        assertMinMaxTemps()
+        assertMinMaxTemps(location: coordinate)
     }
     
-    func assertMinMaxTemps() {
+    func assertMinMaxTemps(location: CLLocationCoordinate2D) {
         refreshExpectation()
         let hiTemp = app.descendantMatchingIdentifier(id: "header.hiTemp")
-        let baseURL = "http://api.openweathermap.org/data/2.5"
-        let currentConditionsURL = URL(string: baseURL + "/weather?q=Atlanta,ga&units=imperial&appid=ab298dd3d8f93043e672f412b02fac88")!
+        let currentConditionsURL = URL(string: baseURL + "/weather?lat=\(location.latitude)&lon=\(location.longitude)&units=imperial&appid=ab298dd3d8f93043e672f412b02fac88")!
+        
         let currentConditions = Resource<JSONDictionary>(url: currentConditionsURL, parseJSON: { json in
             json as? JSONDictionary
         })
-        HTTPClient().load(resource: currentConditions) { json in
+        client.load(resource: currentConditions) { json in
             mainQueue.add {
                 guard let main = json?["main"] as? JSONDictionary, let temp = main["temp_max"] as? Double else {
                     return XCTFail("failed to fetch max temp")
@@ -44,24 +58,25 @@ class TheWeatherUITests: UITestCase {
     }
     
     func test5DayCells() {
-        let baseURL = "http://api.openweathermap.org/data/2.5"
-        let fiveDayURL = URL(string: baseURL + "/forecast/daily?q=Atlanta,ga&units=imperial&cnt=5&appid=ab298dd3d8f93043e672f412b02fac88")!
-        let fiveDay = Resource<JSONDictionary>(url: fiveDayURL, parseJSON: { json in
+        refreshExpectation()
+        let url = fiveDayURL(lat: coordinate.latitude, lon: coordinate.longitude)
+        let fiveDay = Resource<JSONDictionary>(url: url, parseJSON: { json in
             json as? JSONDictionary
         })
-        refreshExpectation()
-        HTTPClient().load(resource: fiveDay, completion: assertCellsShowCorrectData)
+        client.load(resource: fiveDay, completion: assertCellsShowCorrectData)
         waitForExpectationsWithDefaultTimeout()
     }
     
     func assertCellsShowCorrectData(json: JSONDictionary?) {
         mainQueue.add {
             guard let days = json?["list"] as? [JSONDictionary] else {
+                self.expectation.fulfill()
                 return XCTFail("failed to fetch forecasts")
             }
             for i in 1..<5 {
                 let d = days[i]
                 guard let temp = d["temp"] as? JSONDictionary, let hiTemp = temp["max"] as? Double, let lowTemp = temp["min"] as? Double else {
+                    self.expectation.fulfill()
                     return XCTFail("failed to fetch temps")
                 }
                 let cell = self.app.tables.cells.element(boundBy: UInt(i - 1))
@@ -77,6 +92,23 @@ class TheWeatherUITests: UITestCase {
         var tempLabel = temp.label
         tempLabel.dropLast()
         let tempInt = Int(value).description
-        XCTAssertEqual(tempLabel, tempInt, "temp label is incorrect \(tempLabel)")
+        if tempLabel != tempInt {
+            expectation.fulfill()
+            XCTFail("temp label is incorrect \(tempLabel)")
+        }
+    }
+    
+    func coordinate2D() -> CLLocationCoordinate2D {
+        let env = ProcessInfo.processInfo.environment
+        guard let lat = env["lat"], let lon = env["lon"], let coordinate = CLLocationCoordinate2D(lat: lat, lon: lon) else {
+            let defaultCoordinate = CLLocationCoordinate2D(latitude: 37.78, longitude: -122.40)
+            return defaultCoordinate
+        }
+        return coordinate
+    }
+    
+    func fiveDayURL(lat: CLLocationDegrees, lon: CLLocationDegrees) -> URL {
+        let fiveDayURL = URL(string: baseURL + "/forecast/daily?lat=\(coordinate.latitude)&lon=\(coordinate.longitude)&units=imperial&cnt=5&appid=ab298dd3d8f93043e672f412b02fac88")!
+        return fiveDayURL
     }
 }

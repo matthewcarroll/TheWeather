@@ -47,6 +47,9 @@ final class LocationServices: NSObject, CLLocationManagerDelegate {
             if authorizationStatus != .authorizedAlways || authorizationStatus != .authorizedWhenInUse {
                 notifyDelegatesAuthorized()
             }
+        @unknown default:
+            locationManager.requestWhenInUseAuthorization()
+            notifyDelegatesUnauthorized()
         }
         authorizationStatus = status
     }

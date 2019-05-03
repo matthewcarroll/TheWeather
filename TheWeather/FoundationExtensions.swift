@@ -110,7 +110,7 @@ public extension Collection {
     
     func lastIndex(where predicate: (Iterator.Element) -> Bool) -> Index? {
         let reverse = reversed()
-        return reverse.index(where: predicate).map {
+        return reverse.firstIndex(where: predicate).map {
             let distance = reverse.distance(from: reverse.startIndex, to: $0)
             return self.index(endIndex, offsetBy: numericCast(distance))
         }
@@ -147,7 +147,7 @@ public extension Collection {
 public extension Collection where SubSequence: Collection, SubSequence.Indices.Iterator.Element == Index  {
     
     func range(where predicate: @escaping (Iterator.Element) -> Bool) -> ClosedRange<Index>? {
-        guard let first = index(where: predicate) else { return nil }
+        guard let first = firstIndex(where: predicate) else { return nil }
 
         let slice = self[index(after: first)..<endIndex]
         let last = slice.indices.reduceWhile(nil as Index?) {

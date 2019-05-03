@@ -46,7 +46,7 @@ extension WeatherForecast {
         return Resource<[WeatherForecast]>(url: url, parseJSON: { json in
             guard let dictionary = json as? JSONDictionary,
                 let dictionaries = dictionary["list"] as? [JSONDictionary] else { return nil }
-            return dictionaries.flatMap(WeatherForecast.init)
+            return dictionaries.compactMap(WeatherForecast.init)
         })
     }
     

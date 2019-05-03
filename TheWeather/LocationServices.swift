@@ -24,7 +24,7 @@ final class LocationServices: NSObject, CLLocationManagerDelegate {
     private var authorizationStatus: CLAuthorizationStatus
     private var locationServicesCompletion: LocationServicesCompletion?
     private var delegates = [String: LocationServicesDelegate]()
-    static let instance = LocationServices()
+    static let shared = LocationServices()
     
     private override init() {
         authorizationStatus = CLLocationManager.authorizationStatus()

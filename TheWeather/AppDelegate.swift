@@ -29,7 +29,7 @@ private final class Segues {
     
     init(window: UIWindow) {
         navigationController = window.rootViewController as! UINavigationController
-        LocationServices.instance.fetchCurrentLocation(completion: deviceLocationResponse)
+        LocationServices.shared.fetchCurrentLocation(completion: deviceLocationResponse)
         let fiveDayController = navigationController.viewControllers[0] as! FiveDayViewController
         fiveDayController.didSelect = showDetailView
         fiveDayController.didTapHeader = showDetailView

@@ -117,33 +117,13 @@ public extension Collection {
     }
 }
 
-/// return the first range of elements where predicate is true
-public extension Sequence {
-    
-    func takeWhile(predicate: (Iterator.Element) -> Bool) -> [Iterator.Element] {
-        var elements: [Iterator.Element] = []
-        for x in self {
-            guard predicate(x) else { break }
-            elements.append(x)
-        }
-        return elements
-    }
-    
-    func dropWhile(predicate: (Iterator.Element) -> Bool) -> SubSequence {
-        var i = 0
-        for x in self {
-            guard predicate(x) else { break }
-            i += 1
-        }
-        return dropFirst(i)
-    }
-}
+//https://github.com/apple/swift-evolution/blob/c5829816e8bedf87870fbdb7e8264c310f945cb9/proposals/0234-remove-sequence-subsequence.md
 
-extension Sequence where SubSequence: Sequence, SubSequence.Iterator.Element == Iterator.Element {
+extension Sequence {
     
     func slice(where predicate: @escaping (Iterator.Element) -> Bool) -> [Iterator.Element] {
-        let dropped = dropWhile { !predicate($0) }
-        return dropped.takeWhile { predicate($0) }
+        let dropped = drop { !predicate($0) }
+        return dropped.prefix { predicate($0) }
     }
 }
 
@@ -182,14 +162,14 @@ public extension Collection where SubSequence: Collection, SubSequence.Indices.I
 public extension String {
     
     func replacingOccurrences(of replacementMap: [Character: Character]) -> String {
-        return String(characters.map { character in replacementMap[character] ?? character })
+        return String(map { character in replacementMap[character] ?? character })
     }
     
     mutating func replaceOccurrences(of replacementMap: [Character: Character]) {
-        withMutableCharacters { characterView in
-            characterView = CharacterView(characterView.map { character -> Character in
-                replacementMap[character] ?? character
-            })
+        for i in indices {
+            if let rep = replacementMap[self[i]] {
+                self.replaceSubrange(i...i, with: [rep])
+            }
         }
     }
     
@@ -304,15 +284,15 @@ public extension TimeZone {
 
 public extension NSTextCheckingResult {
     
-    func substrings(of checkedString: String) -> [String] {
+    func substrings(of checkedString: String) -> [Substring] {
         return (0..<numberOfRanges).map {
-            checkedString.substring(at: rangeAt($0))
+            checkedString.substring(at: range(at: $0))
         }
     }
     
-    func substrings(of checkedString: String, captureGroups: CountableRange<Int>) -> [String] {
+    func substrings(of checkedString: String, captureGroups: CountableRange<Int>) -> [Substring] {
         return captureGroups.map { index in 
-            checkedString.substring(at: rangeAt(index))
+            checkedString.substring(at: range(at: index))
         }
     }
 }
@@ -321,10 +301,10 @@ public extension NSTextCheckingResult {
 
 public extension String {
     
-    func substring(at range: NSRange) -> String {
+    func substring(at range: NSRange) -> Substring {
         let start = index(startIndex, offsetBy: range.location)
         let end = index(start, offsetBy: range.length)
-        return substring(with: start..<end)
+        return self[start..<end]
     }
     
     var nsRange: NSRange {
@@ -338,7 +318,7 @@ public extension String {
     }
 }
 
-public extension String.CharacterView {
+public extension String {
     
     func distanceTo(character: Character) -> IndexDistance? {
         var distance = 0
@@ -352,7 +332,7 @@ public extension String.CharacterView {
     }
 }
 
-public extension String.CharacterView {
+public extension String {
     
     func rangeOf(range: NSRange) -> Range<Index> {
         let start = index(startIndex, offsetBy: range.location)
@@ -380,19 +360,19 @@ public extension String {
         regex.enumerateMatches(in: self, options: [], range: nsRange) { checkingResult, _, stop in
             guard let checkingResult = checkingResult else { return }
             let match = substring(at: checkingResult.range)
-            guard let replacement = replacement(match, checkingResult, stop) else { return }
+            guard let replacement = replacement(String(match), checkingResult, stop) else { return }
             
-            let minLength = min(replacement.characters.count, match.characters.count)
-            var replacementString = replacement.substring(to: replacement.index(startIndex, offsetBy: minLength))
+            let minLength = min(replacement.count, match.count)
+            var replacementString = replacement[..<replacement.index(startIndex, offsetBy: minLength)]
             
-            let offset = selfCopy.characters.count - characters.count
+            let offset = selfCopy.count - count
             let start = selfCopy.index(startIndex, offsetBy: checkingResult.range.location + offset)
             let end = selfCopy.index(start, offsetBy: checkingResult.range.length)
             selfCopy.replaceSubrange(start..<end, with: replacementString)
             
-            if replacementString.characters.count < replacement.characters.count {
-                replacementString = replacement.substring(from: replacementString.endIndex)
-                selfCopy.insert(contentsOf: replacementString.characters, at: end)
+            if replacementString.count < replacement.count {
+                replacementString = replacement[replacementString.endIndex...]
+                selfCopy.insert(contentsOf: replacementString, at: end)
             }
         }
         return selfCopy
@@ -405,14 +385,13 @@ public extension String {
 public extension String {
     
     mutating func dropLast() {
-        withMutableCharacters { $0 = $0.dropLast() }
+        let start = index(before: endIndex)
+        replaceSubrange(start..<endIndex, with: [])
     }
     
     mutating func replaceAtIndex(i: Index, c: Character) {
         guard i < endIndex else { return }
-        withMutableCharacters { cv in
-            cv.replaceSubrange(i...i, with: [c])
-        }
+        replaceSubrange(i...i, with: [c])
     }
 }
 
@@ -430,7 +409,7 @@ public extension String {
 public extension String {
     
     func distance(to predicate: (_: Character) -> Bool) -> IndexDistance? {
-        return characters.reduceWhile(0) { distance, c -> Int? in
+        return reduceWhile(0) { distance, c -> Int? in
             guard !predicate(c) else { return nil }
             return distance + 1
         }
@@ -457,53 +436,6 @@ public extension OperationQueue {
     
     func add(_ block: @escaping () ->()) {
         addOperation(block)
-    }
-}
-
-
-
-// MARK: - Converting self for optional chaining:
-
-public extension Integer {
-    
-    var asString: String {
-        return "\(self)"
-    }
-}
-
-public extension FloatingPoint {
-    
-    var asString: String {
-        return "\(self)"
-    }
-}
-
-public extension Collection {
-    
-    var asString: String {
-        return "\(self)"
-    }
-}
-
-public extension Double {
-    
-    var asInt: Int {
-        return Int(self)
-    }
-}
-
-public extension NSNumber {
-    
-    var asString: String {
-        return "\(self)"
-    }
-}
-
-public extension IntegerArithmetic {
-    
-    var absv: Self {
-        let zero: Self = self - self
-        return self < zero ? zero - self : self
     }
 }
 

@@ -35,7 +35,7 @@ class UITestCase: XCTestCase {
     }
     
     func backgroundAndForegroundTheApp() {
-        XCUIDevice.shared().press(.home)
+        XCUIDevice.shared.press(.home)
         app.launch()
     }
 
@@ -45,7 +45,7 @@ class UITestCase: XCTestCase {
     
     func waitForExpectationsWithDefaultTimeout() {
         waitForExpectations(timeout: sixtySecondDefaultTimeout) { error in
-            XCTAssertNil(error, "Timeout error \(error)")
+            XCTAssertNil(error, "Timeout error \(String(describing: error))")
         }
     }
     

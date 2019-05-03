@@ -20,7 +20,7 @@ extension NSLayoutDimension {
 
 extension NSLayoutAnchor {
     
-    func constrain(equalTo anchor: NSLayoutAnchor<AnchorType>, constant c: CGFloat) {
+    @objc func constrain(equalTo anchor: NSLayoutAnchor<AnchorType>, constant c: CGFloat) {
         constraint(equalTo: anchor, constant: c).isActive = true
     }
 

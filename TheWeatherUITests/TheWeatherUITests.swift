@@ -79,7 +79,8 @@ class TheWeatherUITests: UITestCase {
                     self.expectation.fulfill()
                     return XCTFail("failed to fetch temps")
                 }
-                let cell = self.app.tables.cells.element(boundBy: UInt(i - 1))
+
+                let cell = self.app.tables.cells.element(boundBy: i - 1)
                 self.assertCellLabel(cell: cell, labelID: "hiTemp", value: hiTemp)
                 self.assertCellLabel(cell: cell, labelID: "lowTemp", value: lowTemp)
             }

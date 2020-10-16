@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Christ Church</title>
+    <description>Theology</description>
+    <itunes:image href='https://is2-ssl.mzstatic.com/image/thumb/course/CobaltPublic6/v4/7f/78/fb/7f78fba4-b854-87cf-ee16-b8dff31f271d/source/336x428.png'/>
+    <language>en-us</language>
+    <itunes:category text='Theology'/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+    <title>John</title>
+    <enclosure url="https://media.githubusercontent.com/media/matthewcarroll/TheWeather/test/TheWeather/test/cc1.m4a" length="0" type="audio/mpeg"/>
+    <pubDate>Thu, 05 Jan 2021 15:00:00 -0500</pubDate>
+    <itunes:duration>99</itunes:duration>
+    </item>
+  </channel>
+</rss>

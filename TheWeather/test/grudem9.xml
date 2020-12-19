@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel><title>Wayne Grudem's Systematic Theology</title><link>http://www.christianessentialssbc.com</link><description>A podcast feed for Wayne Grudem's Systematic Theology audio.</description><generator>Feeder 2.0.7(1195) http://reinventedsoftware.com/feeder/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><language>en</language><pubDate>Wed, 05 May 2010 09:50:25 +0100</pubDate><lastBuildDate>Wed, 05 May 2010 09:50:25 +0100</lastBuildDate><image>
+            <url>http://apologetics315.com/media/grudem-podcast144.jpg</url>
+            <title>Wayne Grudem's Systematic Theology</title>
+            <link>http://www.christianessentialssbc.com</link>
+            <width>144</width>
+            <height>144</height>
+            <description>A podcast feed for Wayne Grudem's Systematic Theology audio.</description>
+        </image><itunes:author>Apologetics315.com</itunes:author><itunes:keywords>Theology, Apologetics, Systematic Theology, Wayne Grudem, Grudem, Bible, Doctrine, Biblical</itunes:keywords><itunes:explicit>no</itunes:explicit><itunes:image href="http://apologetics315.com/media/grudem-podcast.jpg"/><itunes:owner>
+            <itunes:name>Brian Auten</itunes:name>
+            <itunes:email>brian4uten@gmail.com</itunes:email>
+        </itunes:owner><itunes:block>no</itunes:block><itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Christianity"/>
+        </itunes:category><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/WayneGrudemsSystematicTheology"/><feedburner:info uri="waynegrudemssystematictheology"/><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/><media:thumbnail url="http://apologetics315.com/media/grudem-podcast.jpg"/><media:keywords>Theology, Apologetics, Systematic Theology, Wayne Grudem, Grudem, Bible, Doctrine, Biblical</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Religion &amp; Spirituality/Christianity</media:category><itunes:subtitle>A podcast feed for Wayne Grudem's Systematic Theology audio.</itunes:subtitle><media:credit role="author">Apologetics315.com</media:credit><media:rating>nonadult</media:rating><item>
+            <title>Baptism</title>
+            
+            <guid isPermaLink="false">baptism</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>56:16</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/6i_bNsb8YBk/106-baptism.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/6i_bNsb8YBk/106-baptism.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/106-baptism.mp3</feedburner:origEnclosureLink><pubDate>2010-05-05 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Baptism in and Filling with the Holy Spirit</title>
+            
+            <guid isPermaLink="false">baptism-in-and-filling-with-the-holy-spirit</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>43:31</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/6Q5iFXwmxrk/90-baptism-in-and-filling-with-the-holy-spirit.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/6Q5iFXwmxrk/90-baptism-in-and-filling-with-the-holy-spirit.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/90-baptism-in-and-filling-with-the-holy-spirit.mp3</feedburner:origEnclosureLink><pubDate>2010-05-12 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Church Government (1 of 3)</title>
+            
+            <guid isPermaLink="false">church-government-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>54:30</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/yEPH5bDdV2k/102-church-government-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/yEPH5bDdV2k/102-church-government-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/102-church-government-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-05-19 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Church Government (2 of 3)</title>
+            
+            <guid isPermaLink="false">church-government-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>40:29</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/SiWOz0cCN8w/103-church-government-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/SiWOz0cCN8w/103-church-government-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/103-church-government-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-05-26 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Church Government (3 of 3)</title>
+            
+            <guid isPermaLink="false">church-government-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>48:22</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/T95UMnFCeXM/104-church-government-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/T95UMnFCeXM/104-church-government-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/104-church-government-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-06-02 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Church Govt. - Role of Women in the Church</title>
+            
+            <guid isPermaLink="false">church-govt-role-of-women-in-the-church</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>48:53</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/eNpcDGA0Ioo/105-church-govt.-role-of-women-in-the-church.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/eNpcDGA0Ioo/105-church-govt.-role-of-women-in-the-church.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/105-church-govt.-role-of-women-in-the-church.mp3</feedburner:origEnclosureLink><pubDate>2010-06-09 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Death and the Intermediate State</title>
+            
+            <guid isPermaLink="false">death-and-the-intermediate-state</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>58:34</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Ju6vXEn9Nbw/93-death-and-the-intermediate-state.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Ju6vXEn9Nbw/93-death-and-the-intermediate-state.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/93-death-and-the-intermediate-state.mp3</feedburner:origEnclosureLink><pubDate>2010-06-16 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Adoption</title>
+            
+            <guid isPermaLink="false">doctrine-of-adoption</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>59:59</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/-tE6V24VjWo/86-doctrine-of-adoption.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/-tE6V24VjWo/86-doctrine-of-adoption.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/86-doctrine-of-adoption.mp3</feedburner:origEnclosureLink><pubDate>2010-06-23 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Angels (1 of 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-angels-1-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>56:52</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/UhUG7qjR-Uo/50-doctrine-of-angels-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/UhUG7qjR-Uo/50-doctrine-of-angels-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/50-doctrine-of-angels-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2010-06-30 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Angels (2 of 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-angels-2-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>50:19</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/NdT0h9cW0iA/51-doctrine-of-angels-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/NdT0h9cW0iA/51-doctrine-of-angels-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/51-doctrine-of-angels-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2010-07-07 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Common Grace</title>
+            
+            <guid isPermaLink="false">doctrine-of-common-grace</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>42:51</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Lj1TNIm6Wq4/78-doctrine-of-common-grace.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Lj1TNIm6Wq4/78-doctrine-of-common-grace.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/78-doctrine-of-common-grace.mp3</feedburner:origEnclosureLink><pubDate>2010-07-14 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Conversion (Faith &amp; Repentance)</title>
+            
+            <guid isPermaLink="false">doctrine-of-conversion-faith-repentance</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>45:50</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/yUjsO9JSvN0/83-doctrine-of-conversion-faith--repentance.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/yUjsO9JSvN0/83-doctrine-of-conversion-faith--repentance.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/83-doctrine-of-conversion-faith--repentance.mp3</feedburner:origEnclosureLink><pubDate>2010-07-21 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Covenants: Covenants Between God and Man</title>
+            
+            <guid isPermaLink="false">doctrine-of-covenants-covenants-between-god-and-m</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>49:46</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/_aOiR2JP7Ug/62-doctrine-of-covenants-covenants-between-god-and-man.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/_aOiR2JP7Ug/62-doctrine-of-covenants-covenants-between-god-and-man.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/62-doctrine-of-covenants-covenants-between-god-and-man.mp3</feedburner:origEnclosureLink><pubDate>2010-07-28 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Election and Reprobation (1 of 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-election-and-reprobation-1-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>57:49</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/i6sOEqyWR54/79-doctrine-of-election-and-reprobation-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/i6sOEqyWR54/79-doctrine-of-election-and-reprobation-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/79-doctrine-of-election-and-reprobation-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2010-08-04 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Election and Reprobation (2 of 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-election-and-reprobation-2-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:14</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/PgFfOd249C0/80-doctrine-of-election-and-reprobation-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/PgFfOd249C0/80-doctrine-of-election-and-reprobation-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/80-doctrine-of-election-and-reprobation-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2010-08-11 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Glorification</title>
+            
+            <guid isPermaLink="false">doctrine-of-glorification</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>54:00</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/8TJt5MMG5Z4/94-doctrine-of-glorification.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/8TJt5MMG5Z4/94-doctrine-of-glorification.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/94-doctrine-of-glorification.mp3</feedburner:origEnclosureLink><pubDate>2010-08-18 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Justification (1 of 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-justification-1-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>43:09</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/NkdAvFRPxQQ/84-doctrine-of-justification-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/NkdAvFRPxQQ/84-doctrine-of-justification-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/84-doctrine-of-justification-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2010-08-25 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Justification (2 of 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-justification-2-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>50:42</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/3WIoqRkAGTc/85-doctrine-of-justification-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/3WIoqRkAGTc/85-doctrine-of-justification-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/85-doctrine-of-justification-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2010-09-01 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Man: Creation of Man in the Image of God</title>
+            
+            <guid isPermaLink="false">doctrine-of-man-creation-of-man-in-the-image-of-g</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:14</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/i3ZxZA_ulY4/55-doctrine-of-man-creation-of-man-in-the-image-of-god.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/i3ZxZA_ulY4/55-doctrine-of-man-creation-of-man-in-the-image-of-god.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/55-doctrine-of-man-creation-of-man-in-the-image-of-god.mp3</feedburner:origEnclosureLink><pubDate>2010-09-08 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Man: Manhood and Womanhood in Creation and Marriage (1 or 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-man-manhood-and-womanhood-in-creation-1</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>52:06</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/pJU3mXMr8xE/56-doctrine-of-man-manhood-and-womanhood-in-creation-and-marriage-1-or-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/pJU3mXMr8xE/56-doctrine-of-man-manhood-and-womanhood-in-creation-and-marriage-1-or-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/56-doctrine-of-man-manhood-and-womanhood-in-creation-and-marriage-1-or-2.mp3</feedburner:origEnclosureLink><pubDate>2010-09-15 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Man: Manhood and Womanhood in Creation and Marriage (2 or 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-man-manhood-and-womanhood-in-creation</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>44:48</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/nW2yBuIZmA8/57-doctrine-of-man-manhood-and-womanhood-in-creation-and-marriage-2-or-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/nW2yBuIZmA8/57-doctrine-of-man-manhood-and-womanhood-in-creation-and-marriage-2-or-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/57-doctrine-of-man-manhood-and-womanhood-in-creation-and-marriage-2-or-2.mp3</feedburner:origEnclosureLink><pubDate>2010-09-22 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Man: The Essential Nature of Man</title>
+            
+            <guid isPermaLink="false">doctrine-of-man-the-essential-nature-of-man</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:40</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/A8YcMvkI4MU/58-doctrine-of-man-the-essential-nature-of-man.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/A8YcMvkI4MU/58-doctrine-of-man-the-essential-nature-of-man.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/58-doctrine-of-man-the-essential-nature-of-man.mp3</feedburner:origEnclosureLink><pubDate>2010-09-29 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Miracles (1 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-miracles-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>37:28</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/fldW6vqo1y4/44-doctrine-of-miracles-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/fldW6vqo1y4/44-doctrine-of-miracles-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/44-doctrine-of-miracles-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-10-06 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Miracles (2 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-miracles-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>46:49</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/XbbZr6eXTYQ/45-doctrine-of-miracles-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/XbbZr6eXTYQ/45-doctrine-of-miracles-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/45-doctrine-of-miracles-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-10-13 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Miracles (3 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-miracles-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>47:25</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/w6msLRYiL-g/46-doctrine-of-miracles-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/w6msLRYiL-g/46-doctrine-of-miracles-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/46-doctrine-of-miracles-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-10-20 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Prayer (1 of 4)</title>
+            
+            <guid isPermaLink="false">doctrine-of-prayer-1-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>45:08</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/x_beBzZZk-o/47-doctrine-of-prayer-1-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/x_beBzZZk-o/47-doctrine-of-prayer-1-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/47-doctrine-of-prayer-1-of-4.mp3</feedburner:origEnclosureLink><pubDate>2010-10-27 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Prayer (2 of 4)</title>
+            
+            <guid isPermaLink="false">doctrine-of-prayer-2-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>54:59</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/k1tAMK3zbbI/48-doctrine-of-prayer-2-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/k1tAMK3zbbI/48-doctrine-of-prayer-2-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/48-doctrine-of-prayer-2-of-4.mp3</feedburner:origEnclosureLink><pubDate>2010-11-03 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of Prayer (4 of 4)</title>
+            
+            <guid isPermaLink="false">doctrine-of-prayer-4-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>48:16</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/cgBiyUYZZ3s/49-doctrine-of-prayer-4-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/cgBiyUYZZ3s/49-doctrine-of-prayer-4-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/49-doctrine-of-prayer-4-of-4.mp3</feedburner:origEnclosureLink><pubDate>2010-11-09 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Regeneration</title>
+            
+            <guid isPermaLink="false">doctrine-of-regeneration</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:20</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/z6lqBpBJK9U/82-doctrine-of-regeneration.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/z6lqBpBJK9U/82-doctrine-of-regeneration.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/82-doctrine-of-regeneration.mp3</feedburner:origEnclosureLink><pubDate>2010-11-16 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Sanctification (1 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-sanctification-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>39:59</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/92hDk9uPn8s/87-doctrine-of-sanctification-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/92hDk9uPn8s/87-doctrine-of-sanctification-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/87-doctrine-of-sanctification-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-11-23 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Sanctification (2 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-sanctification-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>45:46</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/xzZ0ZtiS6nM/88-doctrine-of-sanctification-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/xzZ0ZtiS6nM/88-doctrine-of-sanctification-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/88-doctrine-of-sanctification-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-11-30 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Sanctification (3 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-sanctification-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>43:36</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/H4iqjzsExUs/89-doctrine-of-sanctification-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/H4iqjzsExUs/89-doctrine-of-sanctification-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/89-doctrine-of-sanctification-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-12-07 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Satan &amp; Demons (1 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-satan-demons-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>35:58</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/elqaJHgPxH0/52-doctrine-of-satan--demons-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/elqaJHgPxH0/52-doctrine-of-satan--demons-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/52-doctrine-of-satan--demons-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-12-14 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Satan &amp; Demons (2 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-satan-demons-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:16</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/JAvbnweC4TQ/53-doctrine-of-satan--demons-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/JAvbnweC4TQ/53-doctrine-of-satan--demons-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/53-doctrine-of-satan--demons-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-12-21 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Satan &amp; Demons (3 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-satan-demons-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:57</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/6Fmt6LuTB7c/54-doctrine-of-satan--demons-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/6Fmt6LuTB7c/54-doctrine-of-satan--demons-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/54-doctrine-of-satan--demons-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2010-12-28 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Sin (1 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-sin-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>50:12</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/4uaydqsy7oY/59-doctrine-of-sin-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/4uaydqsy7oY/59-doctrine-of-sin-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/59-doctrine-of-sin-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-01-04 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Sin (2 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-sin-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:00:30</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/mbhoU4kwzRk/60-doctrine-of-sin-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/mbhoU4kwzRk/60-doctrine-of-sin-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/60-doctrine-of-sin-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-01-11 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of Sin (3 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-sin-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>50:48</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/9PlJIZg8nwQ/61-doctrine-of-sin-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/9PlJIZg8nwQ/61-doctrine-of-sin-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/61-doctrine-of-sin-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-01-18 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of the Atonement (1 of 4)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-atonement-1-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:33</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/c_7Xkxqivw0/67-doctrine-of-the-atonement-1-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/c_7Xkxqivw0/67-doctrine-of-the-atonement-1-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/67-doctrine-of-the-atonement-1-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-01-25 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of the Atonement (2 of 4)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-atonement-2-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>59:50</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/B90DfDCMdY8/68-doctrine-of-the-atonement-2-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/B90DfDCMdY8/68-doctrine-of-the-atonement-2-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/68-doctrine-of-the-atonement-2-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-02-01 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of the Atonement (3 of 4)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-atonement-3-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>46:21</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/2DQTsEhojUw/69-doctrine-of-the-atonement-3-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/2DQTsEhojUw/69-doctrine-of-the-atonement-3-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/69-doctrine-of-the-atonement-3-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-02-08 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of the Atonement (4 of 4)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-atonement-4-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>50:02</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Aa6xt4lVJBQ/70-doctrine-of-the-atonement-4-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Aa6xt4lVJBQ/70-doctrine-of-the-atonement-4-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/70-doctrine-of-the-atonement-4-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-02-15 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of the Holy Spirit (1 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-holy-spirit-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>40:43</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/JI4X5dmqqqU/75-doctrine-of-the-holy-spirit-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/JI4X5dmqqqU/75-doctrine-of-the-holy-spirit-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/75-doctrine-of-the-holy-spirit-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-02-22 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of the Holy Spirit (2 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-holy-spirit-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>45:13</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/KtGRfoq45qs/76-doctrine-of-the-holy-spirit-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/KtGRfoq45qs/76-doctrine-of-the-holy-spirit-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/76-doctrine-of-the-holy-spirit-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-03-01 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of the Holy Spirit (3 of 3)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-holy-spirit-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>49:17</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Xw2u85UgkN0/77-doctrine-of-the-holy-spirit-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Xw2u85UgkN0/77-doctrine-of-the-holy-spirit-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/77-doctrine-of-the-holy-spirit-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-03-08 23:00:00 -0500</pubDate>
+</item><item>
+            <title>Doctrine of the Resurrection (1 of 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-resurrection-1-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>57:16</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/h3ZZGa7v87A/71-doctrine-of-the-resurrection-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/h3ZZGa7v87A/71-doctrine-of-the-resurrection-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/71-doctrine-of-the-resurrection-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2011-03-16 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Doctrine of the Resurrection (2 of 2)</title>
+            
+            <guid isPermaLink="false">doctrine-of-the-resurrection-2-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:29</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/11-8yrt-D2w/72-doctrine-of-the-resurrection-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/11-8yrt-D2w/72-doctrine-of-the-resurrection-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/72-doctrine-of-the-resurrection-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2011-03-23 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Gift of Tongues - Christ's Return</title>
+            
+            <guid isPermaLink="false">gift-of-tongues-christs-return</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>50:53</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/PoYcneZcTB0/113-gift-of-tongues-christs-return.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/PoYcneZcTB0/113-gift-of-tongues-christs-return.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/113-gift-of-tongues-christs-return.mp3</feedburner:origEnclosureLink><pubDate>2011-03-30 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Gifts of the Holy Spirit (1 of 3)</title>
+            
+            <guid isPermaLink="false">gifts-of-the-holy-spirit-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>45:40</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/LmjkyQO1DQM/109-gifts-of-the-holy-spirit-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/LmjkyQO1DQM/109-gifts-of-the-holy-spirit-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/109-gifts-of-the-holy-spirit-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-04-06 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Gifts of the Holy Spirit (2 of 3)</title>
+            
+            <guid isPermaLink="false">gifts-of-the-holy-spirit-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>49:08</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/QFh6vsVP4PM/110-gifts-of-the-holy-spirit-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/QFh6vsVP4PM/110-gifts-of-the-holy-spirit-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/110-gifts-of-the-holy-spirit-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-04-13 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Gifts of the Holy Spirit (3 of 3) </title>
+            
+            <guid isPermaLink="false">gifts-of-the-holy-spirit-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>53:15</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/4P2ktoyhExg/111-gifts-of-the-holy-spirit-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/4P2ktoyhExg/111-gifts-of-the-holy-spirit-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/111-gifts-of-the-holy-spirit-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-04-20 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Gifts of the Holy Spirit, Prophecy</title>
+            
+            <guid isPermaLink="false">gifts-of-the-holy-spirit-prophecy</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>53:59</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/8ba0smmwOqk/112-gifts-of-the-holy-spirit-prophecy.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/8ba0smmwOqk/112-gifts-of-the-holy-spirit-prophecy.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/112-gifts-of-the-holy-spirit-prophecy.mp3</feedburner:origEnclosureLink><pubDate>2011-04-27 00:00:00 -0400</pubDate>
+</item><item>
+            <title>God's Providence (1 of 3)</title>
+            
+            <guid isPermaLink="false">gods-providence-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>53:03</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/nSBGNY7jNxc/41-gods-providence-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/nSBGNY7jNxc/41-gods-providence-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/41-gods-providence-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-05-04 00:00:00 -0400</pubDate>
+</item><item>
+            <title>God's Providence (2 of 3)</title>
+            
+            <guid isPermaLink="false">gods-providence-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>58:07</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/49lQ7HSRwco/42-gods-providence-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/49lQ7HSRwco/42-gods-providence-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/42-gods-providence-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-05-11 00:00:00 -0400</pubDate>
+</item><item>
+            <title>God's Providence (3 of 3)</title>
+            
+            <guid isPermaLink="false">gods-providence-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>54:52</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/dGIK5jhSOGw/43-gods-providence-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/dGIK5jhSOGw/43-gods-providence-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/43-gods-providence-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-05-18 00:00:00 -0400</pubDate>
+</item><item>
+            <title>How to Interpret the Bible (1 of 7)</title>
+            
+            <guid isPermaLink="false">how-to-interpret-the-bible-1-of-7</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>48:09</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/PKMNhN39Z2g/09-how-to-interpret-the-bible-1-of-7.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/PKMNhN39Z2g/09-how-to-interpret-the-bible-1-of-7.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/09-how-to-interpret-the-bible-1-of-7.mp3</feedburner:origEnclosureLink><pubDate>2011-05-25 00:00:00 -0400</pubDate>
+</item><item>
+            <title>How to Interpret the Bible (2 of 7)</title>
+            
+            <guid isPermaLink="false">how-to-interpret-the-bible-2-of-7</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>41:45</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/YrzlLrvcVv0/10-how-to-interpret-the-bible-2-of-7.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/YrzlLrvcVv0/10-how-to-interpret-the-bible-2-of-7.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/10-how-to-interpret-the-bible-2-of-7.mp3</feedburner:origEnclosureLink><pubDate>2011-06-01 00:00:00 -0400</pubDate>
+</item><item>
+            <title>How to Interpret the Bible (3 of 7)</title>
+            
+            <guid isPermaLink="false">how-to-interpret-the-bible-3-of-7</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>41:45</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/zR0uD1gsM68/11-how-to-interpret-the-bible-3-of-7.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/zR0uD1gsM68/11-how-to-interpret-the-bible-3-of-7.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/11-how-to-interpret-the-bible-3-of-7.mp3</feedburner:origEnclosureLink><pubDate>2011-06-08 00:00:00 -0400</pubDate>
+</item><item>
+            <title>How to Interpret the Bible (4 of 7)</title>
+            
+            <guid isPermaLink="false">how-to-interpret-the-bible-4-of-7</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>47:04</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/hL2yyvgAL4M/12-how-to-interpret-the-bible-4-of-7.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/hL2yyvgAL4M/12-how-to-interpret-the-bible-4-of-7.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/12-how-to-interpret-the-bible-4-of-7.mp3</feedburner:origEnclosureLink><pubDate>2011-06-15 00:00:00 -0400</pubDate>
+</item><item>
+            <title>How to Interpret the Bible (5 of 7)</title>
+            
+            <guid isPermaLink="false">how-to-interpret-the-bible-5-of-7</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>43:41</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/fzNhVsaJtFs/13-how-to-interpret-the-bible-5-of-7.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/fzNhVsaJtFs/13-how-to-interpret-the-bible-5-of-7.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/13-how-to-interpret-the-bible-5-of-7.mp3</feedburner:origEnclosureLink><pubDate>2011-06-22 00:00:00 -0400</pubDate>
+</item><item>
+            <title>How to Interpret the Bible (6 of 7)</title>
+            
+            <guid isPermaLink="false">how-to-interpret-the-bible-6-of-7</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>50:46</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/x1abLiK9-qE/14-how-to-interpret-the-bible-6-of-7.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/x1abLiK9-qE/14-how-to-interpret-the-bible-6-of-7.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/14-how-to-interpret-the-bible-6-of-7.mp3</feedburner:origEnclosureLink><pubDate>2011-06-29 00:00:00 -0400</pubDate>
+</item><item>
+            <title>How to Interpret the Bible (7 of 7)</title>
+            
+            <guid isPermaLink="false">how-to-interpret-the-bible-7-of-7</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:06:37</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/UA8lDX2sl1o/15-how-to-interpret-the-bible-7-of-7.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/UA8lDX2sl1o/15-how-to-interpret-the-bible-7-of-7.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/15-how-to-interpret-the-bible-7-of-7.mp3</feedburner:origEnclosureLink><pubDate>2011-07-06 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Incommunicable Attributes (1 of 4)</title>
+            
+            <guid isPermaLink="false">incommunicable-attributes-1-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>42:39</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/V_JdeYXrvuY/20-incommunicable-attributes-1-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/V_JdeYXrvuY/20-incommunicable-attributes-1-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/20-incommunicable-attributes-1-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-07-13 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Incommunicable Attributes (2 of 4)</title>
+            
+            <guid isPermaLink="false">incommunicable-attributes-2-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>57:21</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/d8HJxasH5wg/21-incommunicable-attributes-2-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/d8HJxasH5wg/21-incommunicable-attributes-2-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/21-incommunicable-attributes-2-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-07-20 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Incommunicable Attributes (3 of 4)</title>
+            
+            <guid isPermaLink="false">incommunicable-attributes-3-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>57:38</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/K31TlA831XM/22-incommunicable-attributes-3-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/K31TlA831XM/22-incommunicable-attributes-3-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/22-incommunicable-attributes-3-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-07-27 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Perseverance of the Saints (1 of 2)</title>
+            
+            <guid isPermaLink="false">perseverance-of-the-saints-1-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:04:40</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/a2dzSAzfaBs/91-perseverance-of-the-saints-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/a2dzSAzfaBs/91-perseverance-of-the-saints-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/91-perseverance-of-the-saints-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2011-08-03 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Perseverance of the Saints (2 of 2)</title>
+            
+            <guid isPermaLink="false">perseverance-of-the-saints-2-of-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:27</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/_1F9zLY-IMI/92-perseverance-of-the-saints-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/_1F9zLY-IMI/92-perseverance-of-the-saints-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/92-perseverance-of-the-saints-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2011-08-10 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Power of the Church and Church Discipline (1 of 3)</title>
+            
+            <guid isPermaLink="false">power-of-the-church-and-church-discipline-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>27:38</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/U_UmtyurveM/99-power-of-the-church-and-church-discipline-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/U_UmtyurveM/99-power-of-the-church-and-church-discipline-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/99-power-of-the-church-and-church-discipline-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-08-17 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Power of the Church and Church Discipline (2 of 3)</title>
+            
+            <guid isPermaLink="false">power-of-the-church-and-church-discipline-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>44:01</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/5O5KiyqeqKo/100-power-of-the-church-and-church-discipline-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/5O5KiyqeqKo/100-power-of-the-church-and-church-discipline-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/100-power-of-the-church-and-church-discipline-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-08-24 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Power of the Church and Church Discipline (3 of 3)</title>
+            
+            <guid isPermaLink="false">power-of-the-church-and-church-discipline-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>39:02</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/spCjVrTCYNI/101-power-of-the-church-and-church-discipline-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/spCjVrTCYNI/101-power-of-the-church-and-church-discipline-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/101-power-of-the-church-and-church-discipline-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2011-08-31 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Canon of Scripture: New Testament Canon</title>
+            
+            <guid isPermaLink="false">the-canon-of-scripture-new-testament-canon</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:01</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/zPIiHG6cpPg/02-the-canon-of-scripture-new-testament-canon.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/zPIiHG6cpPg/02-the-canon-of-scripture-new-testament-canon.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/02-the-canon-of-scripture-new-testament-canon.mp3</feedburner:origEnclosureLink><pubDate>2011-09-07 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Canon of Scripture: Old Testament Canon</title>
+            
+            <guid isPermaLink="false">the-canon-of-scripture-old-testament-canon</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>48:14</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/HNr2n8zq3gU/01-the-canon-of-scripture-old-testament-canon.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/HNr2n8zq3gU/01-the-canon-of-scripture-old-testament-canon.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/01-the-canon-of-scripture-old-testament-canon.mp3</feedburner:origEnclosureLink><pubDate>2011-09-14 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (1 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-1-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>46:05</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/r3Qf54ZWZjc/24-the-character-of-god-communicable-attributes-1-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/r3Qf54ZWZjc/24-the-character-of-god-communicable-attributes-1-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/24-the-character-of-god-communicable-attributes-1-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-09-21 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (2 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-2-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>49:24</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/j0826M-bCHI/25-the-character-of-god-communicable-attributes-2-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/j0826M-bCHI/25-the-character-of-god-communicable-attributes-2-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/25-the-character-of-god-communicable-attributes-2-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-09-28 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (3 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-3-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>47:41</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/-fwNKZPSly0/26-the-character-of-god-communicable-attributes-3-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/-fwNKZPSly0/26-the-character-of-god-communicable-attributes-3-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/26-the-character-of-god-communicable-attributes-3-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-10-05 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (4 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-4-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>56:05</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/nv-xtmWCY20/27-the-character-of-god-communicable-attributes-4-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/nv-xtmWCY20/27-the-character-of-god-communicable-attributes-4-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/27-the-character-of-god-communicable-attributes-4-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-10-12 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (5 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-5-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:18</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/DgJDcR5pwK8/28-the-character-of-god-communicable-attributes-5-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/DgJDcR5pwK8/28-the-character-of-god-communicable-attributes-5-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/28-the-character-of-god-communicable-attributes-5-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-10-19 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (6 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-6-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>52:08</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/P1bCXNgVoIM/29-the-character-of-god-communicable-attributes-6-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/P1bCXNgVoIM/29-the-character-of-god-communicable-attributes-6-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/29-the-character-of-god-communicable-attributes-6-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-10-26 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (7 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-7-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>57:57</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/K87TO5PIT54/30-the-character-of-god-communicable-attributes-7-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/K87TO5PIT54/30-the-character-of-god-communicable-attributes-7-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/30-the-character-of-god-communicable-attributes-7-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-11-02 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (8 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-8-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>53:08</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/u2C-wBjRwls/31-the-character-of-god-communicable-attributes-8-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/u2C-wBjRwls/31-the-character-of-god-communicable-attributes-8-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/31-the-character-of-god-communicable-attributes-8-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-11-08 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Character of God: Communicable Attributes (9 of 9)</title>
+            
+            <guid isPermaLink="false">the-character-of-god-communicable-attributes-9-o</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>59:10</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/2vOohnO2E_I/32-the-character-of-god-communicable-attributes-9-of-9.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/2vOohnO2E_I/32-the-character-of-god-communicable-attributes-9-of-9.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/32-the-character-of-god-communicable-attributes-9-of-9.mp3</feedburner:origEnclosureLink><pubDate>2011-11-15 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Church: Its Nature, Its Marks, and Its Purposes (1 of 2)</title>
+            
+            <guid isPermaLink="false">the-church-its-nature-its-marks-and-its-purpose-1</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>52:25</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/DYNA7RgSOKw/96-the-church-its-nature-its-marks-and-its-purposes-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/DYNA7RgSOKw/96-the-church-its-nature-its-marks-and-its-purposes-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/96-the-church-its-nature-its-marks-and-its-purposes-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2011-11-22 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Church: Its Nature, Its Marks, and Its Purposes (2 of 2)</title>
+            
+            <guid isPermaLink="false">the-church-its-nature-its-marks-and-its-purpose</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>58:07</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/YVdXVOKaf2Q/97-the-church-its-nature-its-marks-and-its-purposes-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/YVdXVOKaf2Q/97-the-church-its-nature-its-marks-and-its-purposes-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/97-the-church-its-nature-its-marks-and-its-purposes-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2011-11-29 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Doctrine of Creation (1 of 4)</title>
+            
+            <guid isPermaLink="false">the-doctrine-of-creation-1-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>48:09</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/x_hvCBRQOIY/37-the-doctrine-of-creation-1-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/x_hvCBRQOIY/37-the-doctrine-of-creation-1-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/37-the-doctrine-of-creation-1-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-12-06 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Doctrine of Creation (2 of 4)</title>
+            
+            <guid isPermaLink="false">the-doctrine-of-creation-2-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>58:58</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/czAlm0tGl_Q/38-the-doctrine-of-creation-2-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/czAlm0tGl_Q/38-the-doctrine-of-creation-2-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/38-the-doctrine-of-creation-2-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-12-13 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Doctrine of Creation (3 of 4)</title>
+            
+            <guid isPermaLink="false">the-doctrine-of-creation-3-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:01:00</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/q3FxQ8m3ih8/39-the-doctrine-of-creation-3-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/q3FxQ8m3ih8/39-the-doctrine-of-creation-3-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/39-the-doctrine-of-creation-3-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-12-20 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Doctrine of Creation (4 of 4)</title>
+            
+            <guid isPermaLink="false">the-doctrine-of-creation-4-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:04:15</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/LlvOcpqtUAA/40-the-doctrine-of-creation-4-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/LlvOcpqtUAA/40-the-doctrine-of-creation-4-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/40-the-doctrine-of-creation-4-of-4.mp3</feedburner:origEnclosureLink><pubDate>2011-12-27 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Doctrine of God: The Existence of God</title>
+            
+            <guid isPermaLink="false">the-doctrine-of-god-the-existence-of-god</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>54:31</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/y0eZgTv4iNc/19-the-doctrine-of-god-the-existence-of-god.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/y0eZgTv4iNc/19-the-doctrine-of-god-the-existence-of-god.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/19-the-doctrine-of-god-the-existence-of-god.mp3</feedburner:origEnclosureLink><pubDate>2012-01-03 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Final Judgment and Eternal Punishment</title>
+            
+            <guid isPermaLink="false">the-final-judgment-and-eternal-punishment</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:52</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/qMi1glSDM_c/117-the-final-judgment-and-eternal-punishment.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/qMi1glSDM_c/117-the-final-judgment-and-eternal-punishment.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/117-the-final-judgment-and-eternal-punishment.mp3</feedburner:origEnclosureLink><pubDate>2012-01-10 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Four Characteristics of Scripture: #1 - Authority (1 of 2)</title>
+            
+            <guid isPermaLink="false">the-four-characteristics-of-scripture-1-author-1</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>47:38</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/ZGLlGsIKP1U/03-the-four-characteristics-of-scripture-1-authority-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/ZGLlGsIKP1U/03-the-four-characteristics-of-scripture-1-authority-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/03-the-four-characteristics-of-scripture-1-authority-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2012-01-17 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Four Characteristics of Scripture: #1 - Authority (2 of 2)</title>
+            
+            <guid isPermaLink="false">the-four-characteristics-of-scripture-1-author</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>47:18</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/kEAjMMpzm3s/04-the-four-characteristics-of-scripture-1-authority-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/kEAjMMpzm3s/04-the-four-characteristics-of-scripture-1-authority-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/04-the-four-characteristics-of-scripture-1-authority-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2012-01-24 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Four Characteristics of Scripture: #2 - Clarity</title>
+            
+            <guid isPermaLink="false">the-four-characteristics-of-scripture-2-clarit</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>46:14</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/MtMMI41Hfv0/08-the-four-characteristics-of-scripture-2-clarity.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/MtMMI41Hfv0/08-the-four-characteristics-of-scripture-2-clarity.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/08-the-four-characteristics-of-scripture-2-clarity.mp3</feedburner:origEnclosureLink><pubDate>2012-01-31 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Four Characteristics of Scripture: #3 - Necessity</title>
+            
+            <guid isPermaLink="false">the-four-characteristics-of-scripture-3-necess</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:07</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/QOAH7qGLgfQ/16-the-four-characteristics-of-scripture-3-necessity.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/QOAH7qGLgfQ/16-the-four-characteristics-of-scripture-3-necessity.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/16-the-four-characteristics-of-scripture-3-necessity.mp3</feedburner:origEnclosureLink><pubDate>2012-02-07 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Four Characteristics of Scripture: #4 - Sufficiency (1 of 2)</title>
+            
+            <guid isPermaLink="false">the-four-characteristics-of-scripture-4-suffic-1</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>44:31</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/FwOnEuz3h0Y/17-the-four-characteristics-of-scripture-4-sufficiency-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/FwOnEuz3h0Y/17-the-four-characteristics-of-scripture-4-sufficiency-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/17-the-four-characteristics-of-scripture-4-sufficiency-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2012-02-14 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Four Characteristics of Scripture: #4 - Sufficiency (2 of 2)</title>
+            
+            <guid isPermaLink="false">the-four-characteristics-of-scripture-4-suffic</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:46</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/QdvBItBc5SU/18-the-four-characteristics-of-scripture-4-sufficiency-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/QdvBItBc5SU/18-the-four-characteristics-of-scripture-4-sufficiency-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/18-the-four-characteristics-of-scripture-4-sufficiency-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2012-02-21 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Gospel Call &amp; Effective Calling</title>
+            
+            <guid isPermaLink="false">the-gospel-call-effective-calling</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:02:15</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/POoR98ZG7yo/81-the-gospel-call--effective-calling.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/POoR98ZG7yo/81-the-gospel-call--effective-calling.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/81-the-gospel-call--effective-calling.mp3</feedburner:origEnclosureLink><pubDate>2012-02-28 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Inerrancy of Scripture (1 of 3)</title>
+            
+            <guid isPermaLink="false">the-inerrancy-of-scripture-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>58:15</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/xSJiSwIKbPo/05-the-inerrancy-of-scripture-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/xSJiSwIKbPo/05-the-inerrancy-of-scripture-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/05-the-inerrancy-of-scripture-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2012-03-06 23:00:00 -0500</pubDate>
+</item><item>
+            <title>The Inerrancy of Scripture (2 of 3)</title>
+            
+            <guid isPermaLink="false">the-inerrancy-of-scripture-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>49:05</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/hThLwiwjJxQ/06-the-inerrancy-of-scripture-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/hThLwiwjJxQ/06-the-inerrancy-of-scripture-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/06-the-inerrancy-of-scripture-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2012-03-14 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Inerrancy of Scripture (3 of 3)</title>
+            
+            <guid isPermaLink="false">the-inerrancy-of-scripture-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>41:22</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/KUD_6vXn1f8/07-the-inerrancy-of-scripture-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/KUD_6vXn1f8/07-the-inerrancy-of-scripture-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/07-the-inerrancy-of-scripture-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2012-03-21 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Lords Supper</title>
+            
+            <guid isPermaLink="false">the-lords-supper</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>47:05</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/D_Q57vWp2pw/107-the-lords-supper.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/D_Q57vWp2pw/107-the-lords-supper.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/107-the-lords-supper.mp3</feedburner:origEnclosureLink><pubDate>2012-03-28 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Millennium: Amillennial and Postmillennial views</title>
+            
+            <guid isPermaLink="false">the-millennium-amillennial-and-postmillennial-vie</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>52:21</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/e75AyPufxU0/115-the-millennium-amillennial-and-postmillennial-views.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/e75AyPufxU0/115-the-millennium-amillennial-and-postmillennial-views.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/115-the-millennium-amillennial-and-postmillennial-views.mp3</feedburner:origEnclosureLink><pubDate>2012-04-04 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Millennium: Premillennial view</title>
+            
+            <guid isPermaLink="false">the-millennium-premillennial-view</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>59:47</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Ek8SLQJ6CjY/116-the-millennium-premillennial-view.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/Ek8SLQJ6CjY/116-the-millennium-premillennial-view.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/116-the-millennium-premillennial-view.mp3</feedburner:origEnclosureLink><pubDate>2012-04-11 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The New Heavens and New Earth</title>
+            
+            <guid isPermaLink="false">the-new-heavens-and-new-earth</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>46:37</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/eUbiewAc4_w/118-the-new-heavens-and-new-earth.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/eUbiewAc4_w/118-the-new-heavens-and-new-earth.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/118-the-new-heavens-and-new-earth.mp3</feedburner:origEnclosureLink><pubDate>2012-04-18 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Offices of Christ: Prophet, Priest, &amp; King (1 of 2)</title>
+            
+            <guid isPermaLink="false">the-offices-of-christ-prophet-priest-king-1</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>51:31</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/JMarSirG230/73-the-offices-of-christ-prophet-priest--king-1-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/JMarSirG230/73-the-offices-of-christ-prophet-priest--king-1-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/73-the-offices-of-christ-prophet-priest--king-1-of-2.mp3</feedburner:origEnclosureLink><pubDate>2012-04-25 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Offices of Christ: Prophet, Priest, &amp; King (2 of 2)</title>
+            
+            <guid isPermaLink="false">the-offices-of-christ-prophet-priest-king-2</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>21:25</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/XOE-HwfhC8A/74-the-offices-of-christ-prophet-priest--king-2-of-2.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/XOE-HwfhC8A/74-the-offices-of-christ-prophet-priest--king-2-of-2.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/74-the-offices-of-christ-prophet-priest--king-2-of-2.mp3</feedburner:origEnclosureLink><pubDate>2012-05-02 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Person of Christ (1 of 3)</title>
+            
+            <guid isPermaLink="false">the-person-of-christ-1-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>47:51</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/W2N78WCcLZk/64-the-person-of-christ-1-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/W2N78WCcLZk/64-the-person-of-christ-1-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/64-the-person-of-christ-1-of-3.mp3</feedburner:origEnclosureLink><pubDate>2012-05-09 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Person of Christ (2 of 3)</title>
+            
+            <guid isPermaLink="false">the-person-of-christ-2-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:00:46</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/9kceNsiNjxE/65-the-person-of-christ-2-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/9kceNsiNjxE/65-the-person-of-christ-2-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/65-the-person-of-christ-2-of-3.mp3</feedburner:origEnclosureLink><pubDate>2012-05-16 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Person of Christ (3 of 3)</title>
+            
+            <guid isPermaLink="false">the-person-of-christ-3-of-3</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:02</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/tLGUqufD_CE/66-the-person-of-christ-3-of-3.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/tLGUqufD_CE/66-the-person-of-christ-3-of-3.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/66-the-person-of-christ-3-of-3.mp3</feedburner:origEnclosureLink><pubDate>2012-05-23 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Purity and Unity of the Church</title>
+            
+            <guid isPermaLink="false">the-purity-and-unity-of-the-church</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>46:48</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/KOPUKMOZMrM/98-the-purity-and-unity-of-the-church.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/KOPUKMOZMrM/98-the-purity-and-unity-of-the-church.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/98-the-purity-and-unity-of-the-church.mp3</feedburner:origEnclosureLink><pubDate>2012-05-30 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Trinity (1 of 4)</title>
+            
+            <guid isPermaLink="false">the-trinity-1-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>56:58</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/1nU4M3XpsfE/33-the-trinity-1-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/1nU4M3XpsfE/33-the-trinity-1-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/33-the-trinity-1-of-4.mp3</feedburner:origEnclosureLink><pubDate>2012-06-06 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Trinity (2 of 4)</title>
+            
+            <guid isPermaLink="false">the-trinity-2-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>56:52</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/DMAE29E9_wE/34-the-trinity-2-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/DMAE29E9_wE/34-the-trinity-2-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/34-the-trinity-2-of-4.mp3</feedburner:origEnclosureLink><pubDate>2012-06-13 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Trinity (3 of 4)</title>
+            
+            <guid isPermaLink="false">the-trinity-3-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:07:25</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/9G8SWQ99mJw/35-the-trinity-3-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/9G8SWQ99mJw/35-the-trinity-3-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/35-the-trinity-3-of-4.mp3</feedburner:origEnclosureLink><pubDate>2012-06-20 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The Trinity (4 of 4)</title>
+            
+            <guid isPermaLink="false">the-trinity-4-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>57:35</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/IjruXCIg-qY/36-the-trinity-4-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/IjruXCIg-qY/36-the-trinity-4-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/36-the-trinity-4-of-4.mp3</feedburner:origEnclosureLink><pubDate>2012-06-27 00:00:00 -0400</pubDate>
+</item><item>
+            <title>The return of Christ: When and How?</title>
+            
+            <guid isPermaLink="false">the-return-of-christ-when-and-how</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>44:45</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/3e8hCFmJ4hA/114-the-return-of-christ-when-and-how.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/3e8hCFmJ4hA/114-the-return-of-christ-when-and-how.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/114-the-return-of-christ-when-and-how.mp3</feedburner:origEnclosureLink><pubDate>2012-07-04 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Union with Christ</title>
+            
+            <guid isPermaLink="false">union-with-christ</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>55:24</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/yTpersH1iEQ/95-union-with-christ.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/yTpersH1iEQ/95-union-with-christ.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/95-union-with-christ.mp3</feedburner:origEnclosureLink><pubDate>2012-07-11 00:00:00 -0400</pubDate>
+</item><item>
+            <title>What is Time? &amp; Incommunicable Attributes (4 of 4)</title>
+            
+            <guid isPermaLink="false">what-is-time-incommunicable-attributes-4-of-4</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>48:12</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/jeQ1i2rEjyo/23-what-is-time--incommunicable-attributes-4-of-4.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/jeQ1i2rEjyo/23-what-is-time--incommunicable-attributes-4-of-4.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/23-what-is-time--incommunicable-attributes-4-of-4.mp3</feedburner:origEnclosureLink><pubDate>2012-07-18 00:00:00 -0400</pubDate>
+</item><item>
+            <title>Worship</title>
+            
+            <guid isPermaLink="false">worship</guid>
+            <itunes:author>Wayne Grudem</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>50:37</itunes:duration>
+        <media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/jL0fV7wX8GM/108-worship.mp3" type="audio/mpeg"/><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/jL0fV7wX8GM/108-worship.mp3" length="0" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/wayne-grudem/108-worship.mp3</feedburner:origEnclosureLink><pubDate>2012-07-25 00:00:00 -0400</pubDate>
+</item><item>
+  <title>Support Us</title>
+  
+  <guid isPermaLink="false">ap315-fundraising-message</guid>
+  <description>Please listen to this important message from our Director and to hear about an opportunity to support our mission work. www.apologetics315.com/donate
+  </description>
+<media:content url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/nhNSBy860ns/Ap315_Fundraising_Message.mp3" fileSize="2787008" type="audio/mpeg"/><itunes:explicit>no</itunes:explicit><itunes:subtitle>Please listen to this important message from our Director and to hear about an opportunity to support our mission work. www.apologetics315.com/donate </itunes:subtitle><itunes:summary>Please listen to this important message from our Director and to hear about an opportunity to support our mission work. www.apologetics315.com/donate </itunes:summary><enclosure url="http://feedproxy.google.com/~r/WayneGrudemsSystematicTheology/~5/nhNSBy860ns/Ap315_Fundraising_Message.mp3" length="2787008" type="audio/mpeg"/><feedburner:origEnclosureLink>http://apologetics315.com/media/Apologetics315/Ap315_Fundraising_Message.mp3</feedburner:origEnclosureLink><pubDate>2012-08-01 00:00:00 -0400</pubDate>
+</item></channel>
+</rss>

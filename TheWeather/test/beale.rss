@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Beale</title>
+    <description>Theo</description>
+    <itunes:image href='https://itunesu-assets.itunes.apple.com/itunes-assets/CobaltPublic/v4/0a/85/b2/0a85b20e-5b58-68ac-137a-d428ec72f7b4/318_1937479794758824118_14_Isaiah_40_66___02.jpg'/>
+    <language>en-US</language>
+    <itunes:category text='Theology'/>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Sat, 08 May 2021 18:55:13 +0000</lastBuildDate>
+    <pubDate>Sat, 08 May 2021 18:55:13 +0000</pubDate>
+    	<item>
+	      <title>Interpreting Symbolism in Revelation</title>
+          <itunes:subtitle>lecture</itunes:subtitle>
+	      <enclosure url='https://raw.githubusercontent.com/matthewcarroll/TheWeather/test/TheWeather/test/symbolism.mp3' type='audio/mpeg'/>
+	      <pubDate>Fri, 12 Feb 2016 13:00:00 -0400</pubDate>
+          <description><![CDATA[<ul>
+<li>VPNs and Supervised devices</li>
+</ul>
+]]></description>
+    	</item>
+        <item>
+          <title>Redemptive Historical Symbolism</title>
+          <enclosure url='https://raw.githubusercontent.com/matthewcarroll/TheWeather/test/TheWeather/test/redemptive-historical-symbolism.mp3' type='audio/mpeg'/>
+          <pubDate>Sat, 13 Feb 2016 14:00:00 -0400</pubDate>
+        </item>
+        <item>
+          <title>Signs of the Times</title>
+          <enclosure url='https://raw.githubusercontent.com/matthewcarroll/TheWeather/test/TheWeather/test/signs-of-the-times.mp3' type='audio/mpeg'/>
+          <pubDate>Sat, 13 Feb 2016 17:00:00 -0400</pubDate>
+        </item>
+        <item>
+          <title>Sealed, Suffering and Safe Forever</title>
+          <enclosure url='https://raw.githubusercontent.com/matthewcarroll/TheWeather/test/TheWeather/test/sealed-suffering-safe-forever.mp3' type='audio/mpeg'/>
+          <pubDate>Sat, 13 Feb 2016 18:00:00 -0400</pubDate>
+        </item>
+  </channel>
+</rss>
